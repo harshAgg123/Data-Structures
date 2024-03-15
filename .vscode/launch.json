@@ -1,0 +1,161 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "tree_ll_ele",
+            "request": "launch",
+            "mainClass": "tree.tree_ll_ele",
+            "projectName": "JAVA_WORKSPACE_81798eb5"
+        },
+        {
+            "type": "java",
+            "name": "queue_ll_ele",
+            "request": "launch",
+            "mainClass": "java_queue.queue_ll_ele",
+            "projectName": "JAVA_WORKSPACE_81798eb5"
+        },
+        {
+            "type": "java",
+            "name": "stack_ll",
+            "request": "launch",
+            "mainClass": "stack_java.stack_ll",
+            "projectName": "JAVA_WORKSPACE_81798eb5"
+        },
+        {
+            "type": "java",
+            "name": "doublell",
+            "request": "launch",
+            "mainClass": "doubly_linked_list.doublell",
+            "projectName": "JAVA_WORKSPACE_81798eb5"
+        },
+        {
+            "type": "java",
+            "name": "llelement",
+            "request": "launch",
+            "mainClass": "linked_list.llelement",
+            "projectName": "JAVA_WORKSPACE_81798eb5"
+        },
+        {
+            "type": "java",
+            "name": "queue2",
+            "request": "launch",
+            "mainClass": "java_queue.queue2",
+            "projectName": "JAVA_WORKSPACE_81798eb5"
+        },
+        {
+            "type": "java",
+            "name": "ll",
+            "request": "launch",
+            "mainClass": "ll",
+            "projectName": "JAVA_WORKSPACE_81798eb5"
+        },
+        {
+            "type": "java",
+            "name": "queue1",
+            "request": "launch",
+            "mainClass": "java_queue.queue1",
+            "projectName": "JAVA_WORKSPACE_81798eb5"
+        },
+        {
+            "type": "java",
+            "name": "string_reverse",
+            "request": "launch",
+            "mainClass": "jav.string_reverse",
+            "projectName": "JAVA_WORKSPACE_81798eb5"
+        },
+        {
+            "type": "java",
+            "name": "stack_list",
+            "request": "launch",
+            "mainClass": "stack_list",
+            "projectName": "JAVA_WORKSPACE_81798eb5"
+        },
+        {
+            "type": "java",
+            "name": "string_reverse",
+            "request": "launch",
+            "mainClass": "string_reverse",
+            "projectName": "JAVA_WORKSPACE_81798eb5"
+        },
+        {
+            "type": "java",
+            "name": "stack_array",
+            "request": "launch",
+            "mainClass": "stack_array",
+            "projectName": "JAVA_WORKSPACE_81798eb5"
+        },
+        {
+            "type": "java",
+            "name": "stack12",
+            "request": "launch",
+            "mainClass": "stack12",
+            "projectName": "JAVA_WORKSPACE_81798eb5"
+        },
+        {
+            "type": "java",
+            "name": "stack",
+            "request": "launch",
+            "mainClass": "stack",
+            "projectName": "JAVA_WORKSPACE_81798eb5"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "agg",
+            "request": "launch",
+            "mainClass": "jav_work.agg",
+            "projectName": "JAVA_WORKSPACE_81798eb5"
+        },
+        {
+            "type": "java",
+            "name": "mean_median_method",
+            "request": "launch",
+            "mainClass": "mean_median_method",
+            "projectName": "JAVA_WORKSPACE_81798eb5"
+        },
+        {
+            "type": "java",
+            "name": "practice",
+            "request": "launch",
+            "mainClass": "practice",
+            "projectName": "JAVA_WORKSPACE_81798eb5"
+        },
+        {
+            "type": "java",
+            "name": "stack_using_arraylist",
+            "request": "launch",
+            "mainClass": "stack_using_arraylist",
+            "projectName": "JAVA_WORKSPACE_81798eb5"
+        },
+        {
+            "type": "java",
+            "name": "test",
+            "request": "launch",
+            "mainClass": "test",
+            "projectName": "JAVA_WORKSPACE_81798eb5"
+        },
+        {
+            "type": "java",
+            "name": "thread1",
+            "request": "launch",
+            "mainClass": "thread1",
+            "projectName": "JAVA_WORKSPACE_81798eb5"
+        },
+        {
+            "type": "java",
+            "name": "thread__methods",
+            "request": "launch",
+            "mainClass": "thread__methods",
+            "projectName": "JAVA_WORKSPACE_81798eb5"
+        }
+    ]
+}
